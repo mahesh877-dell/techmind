@@ -1,0 +1,193 @@
+[200~PASALA VASANTH KUMAR
+
+Mobile 	:   +91 9652899704
+Email		:   babuvasanthp@gmail.com
+
+
+Summary:	
+	Over all 3.5 years Dedicated to optimization experienced AWS DevOps Engineer understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Windows and Linux systems. 
+	Experience and good understanding in Cloud like AWS, Red Hat.
+	Proficient in troubleshooting skills with proven abilities in resolving complex technical issues.
+	Good exposer in creating The Repositories, Branching, Merging and maintaining the version across the environments using GIT to keep tracking of all changes in source code.
+	Having good experience on working with Maven and Understanding the Build Lifecycle, Artifacts, integration with Jenkins and Deploying executable files to Web Servers.
+	Experience on building Jenkins Jobs for CI (Continuous Integration), CD (Continuous Deployment) methodologies and configuration Slaves in Jenkins.
+	Participate in software development lifecycle, specifically infra design, execution and debugging required to achieve successful implementation of integrated solutions within the portfolio. Facility with development methodologies including Agile.
+	Core strength in Continuous Integration, Continuous Delivery and Continuous Deployment.
+	Setup, configure and maintain GIT repos, Maven, Jenkins, Docker, Ansible, Kubernetes, and Tomcat with AWS Cloud Services.
+	Working experience on Docker images, Containers and writing the Docker File.
+	Maintain and monitor cloud Kubernetes Clusters and patching when necessary.
+	Having working experience on configuration management tool Ansible.
+	Having knowledge on Terraform for Provisioning infrastructure (IAC).
+	Having experience on AWS cloud services like EC2, AMI, S3, IAM, VPC, and Subnets & NAT Gateways.
+	Experience in DevOps automation tools And Very well versed with DevOps Frameworks, Agile.
+
+
+Strengths:	
+
+	Achievement oriented with excellent people management skills and an ability to manage change with ease.
+	Proven Strength in problem solving, analysis.
+	Sincere worker and a willing learner, Confident & Optimistic.
+
+Academic Profile:
+
+	B.SC from S.K UNIVERSITY, Anantapur .
+
+
+Technical Skills:
+
+•	SCM Tools: GIT
+•	Build tool: Maven
+•	CI & CD Tool: Jenkins
+•	Containers and Orchestration: Docker, Kubernetes 
+•	Web and Application Server: Apache Tomcat
+•	Infrastructure as a Code: Terraform
+•	Monitoring Tool: Cloud Watch
+•	Operating System: Linux, Windows
+•	Configuration Management Tool: Ansible 
+•	Defect Tracking & Ticketing Tool: Jira
+•	Cloud Services: AWS
+•	Scripting Languages :  Shell Scripting
+
+
+Professional Experience:
+
+	Working as a Devops Engineer in Continental Softech Pvt ltd From Jan 2019 to Till Now.
+
+
+Professional Experience:
+
+Project #2:
+
+Project Name – NYL MICROSERVICES
+may 2021 – Present
+Role:  DevOps Engineer
+
+
+Description:
+
+New York Life Insurance Company is the third-largest insurance company in the US, wanted to revamp their old legacy system to highly maintainable, loosely coupled system. NYL Micro services project is a digital transformation project where conventional monolithic architecture was to be transformed into micro services architecture. It uses modern cloud computing services and technologies whilst introducing Life Insurance Customers into a different level of services.
+
+ 
+Roles & Responsibilities:
+
+	Involved in various phases of Software Development Life Cycle (SDLC) as requirement gathering.
+	Implemented end - end pipeline starting from build to deployment to higher environments like DEV, Stage, PPE and Production.
+	Creating Docker files as per requirement.
+	Using Docker Images and Containers to achieve Continuous Delivery goal.
+	We create branches for developers based on requirements in GitHub.
+	Installing, Configuring and Administering Jenkins CI tool on Linux machines.
+	Analyzing and Resolve conflicts related to merging of source code for GIT.
+	Implemented the setup for Master Slave architecture to improve the Performance of Jenkins.
+	Configured and Automated the Jenkins build jobs for continues Integration.
+	Jenkins Jobs creations and configure build steps for CI & CD in all environments.
+	Good understanding of cloud service model -IAAS, PAAS, SAAS and deployment models- Private, Public and Hybrid.
+	Managing the windows servers hosted in the AWS cloud environment.
+	Working on AWS EC2 management like creating instances, creating volumes, taking AMI backups and volume level snapshots.
+	Worked on instance root volume increase and creation of new volumes, attaching new volumes to existing instance and resizing existing volumes.
+	Creating snapshot of instances using AWS Console.
+	Creating Security groups, adding Security groups and requested IP’s to existing Security groups to allow inbound and outbound traffic to instances and ELB’s.
+	Worked on EBS Volume level encryption. 
+	Worked on instance upgrade like instance type changes and up gradation of volume size.
+	Involved in writing the YAML script for Ansible Playbooks.
+	Implemented a Sonar software quality for testing the code quality.
+	Managing Backups of Instances in the form of Snapshots.
+	Create s3 buckets and also maintaining policies for s3 buckets. 
+	Experience in managing and maintaining IAM policies for organization in AWS to define groups, assign roles and define rules for role based access to AWS resources.
+	Worked exclusively on making applications more scalable and highly available system in AWS (Load balancing).
+	Build and release EC2 instances in Development and Production environment.
+	Building and Managing the infrastructure environments needed for the projects in the AWS hosting platform.
+	Worked with services like (EC2, ELB, S3, Cloud Watch, Cloud Trail, IAM, RDS, VPC, Route53, SNS, and CloudFormation etc. 
+	Create snapshots and AMI's of the instances for backup and creating clone instances.
+	 using Ansible as primary automation tool in configuring and deploying artifacts to several environments.
+	As most of the infrastructure is hosted in AWS cloud I’m responsible for creating and managing.
+	Worked exclusively on making applications more scalable and highly available system in AWS (Load balancing).
+	Manage and configure AWS services as per the business needs (ELB, SNS, EC2, Route53, S3, RDS, Cloud Watch, IAM, VPC, ETC).
+	Creating snapshots, AMIs, Elastic IPs and managing EBS volumes.
+	I have been working closely with a team whose key responsibilities are creating and managing infrastructure for developers, testers and DB administrators in a way to accomplish automation.
+	Extensively worked on Jenkins for continuous integration and for End to End automation for all build and deployments.
+	As DevOps engineer in my team I have a responsibility in configuring Jenkins jobs in such a way that fetches source code from Git repository.
+	Configured Jenkins with Maven build tool in generating war/jar files and archived them.
+	Responsible for maintaining backup and versioning of war/jar file using nexus repository.
+	Integrated Git, Jenkins and maven in accomplishing continuous integration and configured Jenkins with Poll SCM build trigger.
+	Configure for EC2 instances, take EBS snapshots and back up into S3 storage.
+	Promotion the code based on different environments like QA, UAT and Prod.
+	Managing Amazon EBS Web Services like EC2, S3 buckets, AMI, IAM and Cloud watch.
+	Managing application upgrades and Server patches weekly basis.
+	Used GIT for version control and used version1 to track and create User stories.
+	Involved in creating a CI/CD process to build and deployment micro services and micro apps using Jenkins Pipeline and Docker.
+	Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers.
+
+   
+
+
+Project #1:
+ 
+Client Name:  ATOS
+November 2019 – march 2021
+Devops Engineer
+
+Description:
+
+The Project Aims to build a Data warehouse solution for business people at their business, by integrating the business data from various source systems. Data mart is one of their major data warehousing applications that extracts data from various operational systems and loads into data warehouse. In order to analyze the whole seller amount and rate lock in different perspectives like retailer, customer, product rate lock, time, business unit and date, Merck implementing the data warehouse. It wanted the ability to make more timely business decisions regarding its loan pipeline in order to improve its business performance. Configuration of Jenkins CI tool for automated build and Integrating Jenkins with Docker & K8s with AWS cluster.
+
+Roles & Responsibilities:
+
+	Supporting day to day activities (Deployments, Service now cases handling, Change Control execution...etc).
+	Involved in various phases of Software Development Life Cycle (SDLC) as requirement gathering, data modeling, analysis, architecture design & development for the project.
+	Implemented end - end pipeline starting from build to deployment to higher environments like DEV, Stage, PPE and Production.
+	Participated in the Release cycle of the product involved environments like Dev, QA, UAT and Production.
+	Installing, Configuring and Administering Jenkins CI tool on Linux machines.
+	Analyzing and Resolve conflicts related to merging of source code for GIT.
+	Implemented the setup for Master Slave architecture to improve the Performance of Jenkins.
+	Configured and Automated the Jenkins build jobs for continues Integration.
+	Using Docker Images and Containers to achieve Continuous Delivery goal.
+	Jenkin Jobs creations and configure build steps for CI & CD in all environments.
+	We create branches for developers based on requirements in GitHub.
+	Integrate GitHub with web hooks to trigger Continuous Integration tools like Jenkins.
+	Installed/Configured and Managed Nexus Repository.
+	Balancer configuration and troubleshooting.
+	Creating IAM users and assigning respective policies to the users.
+	Configuration of cloud watch monitoring service.
+	S3 bucket creations and adding lifecycle rules.
+	Worked on Trusted Advisor for optimizing the AWS environment and reduce cost.
+	Worked on Cloud Trail for Security and checking for unauthorized access.
+	Working/coordinating with application team for application deployment.
+	Configure EBS for EC2 instances, take EBS snapshots and back up into S3 storage.
+	Integrate SMTP configuration to trigger an Email post deployment.
+	Managing Amazon Web Services like EC2, S3 bucket, AMI and IAM.
+	Managing application upgrades and Server patches weekly basis.
+	Worked on Tickets to solve bugs/tracking with in time and assigning corresponding teams.
+	Manage and configure AWS services as per the business needs (ELB, SNS, EC2, Route53, S3, RDS, Cloud Watch, IAM, VPC).
+	Creating snapshots, AMIs, Elastic IPs and managing EBS volumes.
+	Created and configured elastic load balancers (ELB)to distribute the traffic
+	Used IAM for creating roles, users, groups and also implemented MFA to provide additional security to AWS account and its resources.
+	Created EBS volumes for storing application files for use with EC2 instances whenever they are mounted to them.
+	Integrated Amazon Cloud Watch with Amazon EC2 instances for monitoring the log files and track metrics.
+	I have been working closely with a team whose key responsibilities are creating and managing infrastructure for developers, testers and DB administrators in a way to accomplish automation.
+	Install and configure Apache as a proxy server for Tomcat and Jboss servers
+	Deploying the applications in Dev, Stage/UAT/QA and Prod environment.
+	Expert in deploying different applications like WAR files, Jar files and enterprise application archives (EAR) on WebLogic using various deployment tools.
+	Deployed the applications on multiple WebLogic Server instances and maintained Load    balancing, High availability and Fail over for the servers.
+	Configuring and renew the SSL certificates.
+	Attending Command Center Team call for resolving emergency production issue.
+	Analyzing Thread dumps and providing solutions to app team.
+	Experience on weekly and monthly production planned outages and environment refreshment.
+	Troubleshooting and fixing of problems on Application Servers and Web servers.
+	Handling SDM and Service Now Tickets for dev and stage Changes.
+	Doing load test for the applications whose code is changed in testing environment to get it qualify for production environment.
+	Created and configured elastic load balancers (ELB)to distribute the traffic
+	Used IAM for creating roles, users, groups and also implemented MFA to provide additional security to AWS account and its resources.
+	Integrated Amazon Cloud Watch with Amazon EC2 instances for monitoring the log files and track metrics.
+	Providing 24/7 on call support for production environment.
+
+
+
+Personal Details:
+
+	Languages Known	:	English, Telugu,Hindi
+	Marital Status		:            Married 
+	Date of Birth                :            01-05-1992
+
+
+
+
